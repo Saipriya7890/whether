@@ -1,0 +1,22 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-image: linear-gradient(to bottom, #2980b9, #3498db);
+  color: #fff;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.weather-card {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
